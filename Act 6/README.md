@@ -19,6 +19,8 @@ Contamos con dos ciclos for, uno que se recorre m veces por cada dígito y otro 
 -No utlizar el valor de 999 en la entrada manual
 
 # Fuentes
--http://ict.udlap.mx/people/ingrid/Clases/IS211/Radix.html
--https://es.wikipedia.org/wiki/Ordenamiento_Radix
--https://www.tutorialspoint.com/cplusplus-program-to-implement-radix-sort
+http://ict.udlap.mx/people/ingrid/Clases/IS211/Radix.html
+
+https://es.wikipedia.org/wiki/Ordenamiento_Radix
+
+https://www.tutorialspoint.com/cplusplus-program-to-implement-radix-sort
