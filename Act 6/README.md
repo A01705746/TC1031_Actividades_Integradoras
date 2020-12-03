@@ -8,6 +8,8 @@ Se utiliza para ordenar un conjunto de valores de enteros, es eficiente de usar 
 # ¿Cómo se usa?
 El rdenamiento se basa en los valores de los dígitos en las representaciones de posiciones de los numeros que se ordenan, es decir, divide cada valor en decenas, centenas, millares, etc para procesarlos de forma individual. Se empieza a ordenar a partir del dígito menos significativo al más significativo. El radix es la base del sistema numérico, en el sistema decimal la base es 10, entonces para su funcionamiento se utiliza un arreglo auxiliar de 10 elementos para guardar los dígitos.
 
+![alt tag](https://github.com/A01705746/TC1031_Actividades_Integradoras/blob/master/Act%206/example.png)
+
 # Ejemplos
 Se pude utilizar para básicamente cualquier problemática que involucre ordenamiento de números, siempre y cuando no sean demasiado grandes, por lo que en la vida real puede entrar perfectamente para ordenamiento de fechas de nacimiento, temperaturas, medidas y ordenamiento de datos binarios.
 
